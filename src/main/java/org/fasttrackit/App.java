@@ -5,7 +5,7 @@ public class App
 {
     public static void main( String[] args )
     {
-        HandlingBadInput handlingBadInput = new HandlingBadInput();
-        handlingBadInput.invest();
+        MultiplicationTable multiplicationTable = new MultiplicationTable();
+        multiplicationTable.multiply();
     }
 }
