@@ -1,11 +1,12 @@
 package org.fasttrackit;
 
 
-public class App 
-{
-    public static void main( String[] args )
-    {
-        GuesstheNumberGame guesstheNumberGame = new GuesstheNumberGame();
-        guesstheNumberGame.letsPlay();
-    }
+import javax.xml.validation.Validator;
+import java.io.*;
+import java.nio.file.Paths;
+import java.util.Scanner;
+
+public class App {
+
+
 }
